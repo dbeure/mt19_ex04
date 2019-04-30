@@ -1,0 +1,8 @@
+Erzeugter Sample:
+
+leider hatte ich das gleiche Problem wie beim Kopieren von Dateien:
+UnicodeEncodeError: 'ascii' codec can't encode character '\u201d' in position 5: ordinal not in range(128).
+
+Ich habe das nie gesehen, ihr hattet das auch nie gesehen (zumindest im TUtorat),
+ich bin davon ausgegangen, dass die Chancen gering sind, dass ich das
+bis am 16 löse. Wie gesagt, für diese Übung erwarte ich sowieso nichts :P
